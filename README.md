@@ -1,4 +1,4 @@
-# Hi there, I'm Solomon Nhaoma Wisdom! 👋
+# Hi there, I'm Solomon Nnaoma Wisdom! 👋
 
 I am a passionate **AI Full-Stack Developer** specializing in building modern, responsive web applications and efficient backend systems. I love turning complex problems into clean, user-friendly code.
 
